@@ -1,3 +1,3 @@
-# Project 2: Electronics Sales
+# Electronics Sales
 
 Data Visualization Exercise
